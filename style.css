@@ -1,0 +1,18 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades i{
+    color: #DAFF01;
+}
+.divs-facilidades .text-subtitulo{
+    color: #DAFF01;
+}
+.btn-verMais{
+    background-color: #9353FF;
+    color: #fff;
+}
+.btn-verMais:hover{
+    background-color: #fff;
+    color: #9353FF;
+    border: 1px solid #9353FF
+}
