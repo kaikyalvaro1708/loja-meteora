@@ -1,3 +1,8 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
 .texto-menor{
     font-size: 13px;
 }
@@ -15,4 +20,7 @@
     background-color: #fff;
     color: #9353FF;
     border: 1px solid #9353FF
+}
+.div-novidades{
+    width:50%;
 }
